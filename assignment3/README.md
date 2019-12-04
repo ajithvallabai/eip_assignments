@@ -108,7 +108,7 @@ out put channel size:
 1x1 x10
 
 output rece3ptive field :
-64x64
+108x108
 
 **Logs:**
 
